@@ -15,7 +15,10 @@
   },
   "private": true,
   "dependencies": {
-    "@angular-devkit/build-angular": "~0.1100.4",
+    "@angular/cli": "^13.3.0",
+    "@angular/compiler-cli": "~13.0.0",
+    "typescript": "~4.4.3",
+    "@angular-devkit/build-angular": "~13.0.3",
     "@angular/animations": "~13.0.0",
     "@angular/common": "~13.0.0",
     "@angular/compiler": "~13.0.0",
@@ -33,7 +36,6 @@
     "popper.js": "^1.16.1",
     "rxjs": "~7.4.0",
     "tslib": "^2.3.0",
-    "typescript": "~4.0.2",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
